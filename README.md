@@ -15,10 +15,11 @@ The colleges must be in:
 - be below 50th percentile in overall crime.
 - offer a 2-year or 4-year degree in Information Technology/Science.
 
-## Data
+## Data and other Files
 
 - Kauffman's start-up rankings are present in a CSV file called Startup Activity.csv
 - All other data can be found [here](https://data.world/exercises/data-wrangling-exercise-1).
+- Files named LocalCrimeTrends.pdf and FullDataDocumentation.pdf explains data in the crime and college datasets.
 
 ## Requirements
 
